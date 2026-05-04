@@ -38,6 +38,15 @@
 
 ---
 
+## 🧠 Aprendizados recentes
+
+- Estruturação de APIs REST com Symfony
+- Integração com banco de dados MySQL usando Doctrine
+- Organização de rotas e controllers
+- Boas práticas de desenvolvimento backend
+
+---
+
 ## 🎯 Objetivo
 
 Evoluir para desenvolvedor backend e atuar com segurança da informação.
