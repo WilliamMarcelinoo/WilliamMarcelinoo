@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Fala, eu sou o William
 
-<!--
-**WilliamMarcelinoo/WilliamMarcelinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Analyst | Backend Developer em evolução  
+🔐 Entusiasta de Cybersecurity (OffSec)  
+🚀 Estudando: PHP, Symfony, MySQL e Node.js  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+---
+
+## 📊 Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=WilliamMarcelinoo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMarcelinoo&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamMarcelinoo&theme=tokyonight)
+
+---
+
+## 📂 Projetos
+
+- 📚 Sistema de Biblioteca (Symfony)
+- 🖥️ Sistema de Chamados
+- 📦 Em desenvolvimento: Sistema de Inventário de Ativos de TI
+
+---
+
+## 🎯 Objetivo
+
+Evoluir para desenvolvedor backend e atuar com segurança da informação.
+
