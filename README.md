@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
-
 # 👋 Fala, eu sou o William
 
 💻 IT Analyst | Backend Developer em evolução  
