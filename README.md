@@ -16,14 +16,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=WilliamMarcelinoo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMarcelinoo&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔥 Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=WilliamMarcelinoo&theme=tokyonight&hide_border=true)
