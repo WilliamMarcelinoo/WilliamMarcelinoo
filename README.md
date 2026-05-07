@@ -22,11 +22,13 @@
   <em> About me </em>
 </h2>
 
-<table>
+<table style="border: none;">
 <tr>
 
-<td width="65%" valign="top">
+<td width="65%" valign="top" border="0" style="border: none;">
 
+<p align="center">
+  <br>
 Hello There! <em><b> I'm William Marcelino </b></em>, an IT Analyst and Backend Developer in evolution.
 
 I currently work with technical support, infrastructure, Microsoft 365, Intune and enterprise environments, while also building personal backend projects focused on real-world solutions.
@@ -34,19 +36,20 @@ I currently work with technical support, infrastructure, Microsoft 365, Intune a
 Recently I've been developing an Inventory & Asset Management System for IT equipment using Symfony, PHP, Twig and MySQL — applying concepts like authentication, CRUD operations, filtering systems, responsive UI and REST APIs.
 
 I'm also deeply interested in Cybersecurity, Offensive Security, backend architecture and system organization.
+</p>
 
 <br><br>
-
+<p align="center">
 💻 <b> IT Analyst & Infrastructure Support</b><br>
 🚀 <b> Backend Developer in evolution</b><br>
 🔐 <b> Cybersecurity & OffSec Enthusiast</b><br>
 📚 <b> Studying PHP, Symfony, MySQL & Node.js</b><br>
 🇫🇷 <b> Currently learning French</b><br>
-🎮 <b> Content creator & Thumbnail Designer</b><br>
-
+</br>
+</p>
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" width="35%" align="center" style="border: none;">
 
 <img 
     src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/lain-serial-experiments-lain.gif" 
