@@ -3,10 +3,10 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/williammarcelinoo/)" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/WilliamMarcelinoo" target="_blank">
+  <a href="[https://github.com/WilliamMarcelinoo](https://github.com/WilliamMarcelinoo)" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:venanciomarcelinowilliam@gmail.com">
