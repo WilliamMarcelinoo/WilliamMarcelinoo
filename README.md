@@ -63,7 +63,7 @@ Recently I've been developing an Inventory & Asset Management System for IT equi
   <img src="https://img.shields.io/badge/Microsoft_365-000000?style=for-the-badge&logo=microsoft&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Intune-000000?style=for-the-badge&logo=microsoft&logoColor=white"/> 
 </p>
-<br><br>
+<br>
 
 <h2 align="center">
   <em> Goals </em>
@@ -72,7 +72,11 @@ Recently I've been developing an Inventory & Asset Management System for IT equi
 <p align="center">
 Become a strong Backend Developer while evolving in Cybersecurity and building real-world systems that solve practical problems.
 </p>
+<br>
 
+<h2 align="center">
+  <em> Statistics </em>
+</h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamMarcelinoo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
