@@ -1,63 +1,106 @@
-# 👋 Fala, eu sou o William
+<img src="githubanner.JPG"/>
 
-💻 IT Analyst | Backend Developer em evolução  
-🔐 Entusiasta de Cybersecurity (OffSec)  
-🚀 Estudando: PHP, Symfony, MySQL e Node.js  
+<p align="center">
 
----
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-## 🛠️ Tech Stack
+  <a href="https://github.com/WilliamMarcelinoo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+  <a href="mailto:venanciomarcelinowilliam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
----
+</p>
 
-## 🔥 Streak
+<br>
 
-![Streak](https://streak-stats.demolab.com/?user=WilliamMarcelinoo&theme=tokyonight&hide_border=true)
+<h2 align="center">
+  <em> About me </em>
+</h2>
 
----
+<table>
+<tr>
 
-## 🚧 Atualmente
+<td width="65%" valign="top">
 
-- Desenvolvendo **Sistema de Inventário de Ativos de TI**
-- Aprendendo **Symfony avançado** e **JWT**
-- Estudando **Francês 🇫🇷**
+Hello There! <em><b> I'm William Marcelino </b></em>, an IT Analyst and Backend Developer in evolution.
 
----
+I currently work with technical support, infrastructure, Microsoft 365, Intune and enterprise environments, while also building personal backend projects focused on real-world solutions.
 
-## 📂 Projetos
+Recently I've been developing an Inventory & Asset Management System for IT equipment using Symfony, PHP, Twig and MySQL — applying concepts like authentication, CRUD operations, filtering systems, responsive UI and REST APIs.
 
-- 📚 [Sistema de Biblioteca (Symfony)](https://github.com/WilliamMarcelinoo/fullstack_biblioteca-symfony)
-- 🖥️ [Sistema de Chamados](https://github.com/WilliamMarcelinoo/projeto-chamados)
-- 📦 Em desenvolvimento: **Sistema de Inventário de Ativos de TI**
+I'm also deeply interested in Cybersecurity, Offensive Security, backend architecture and system organization.
 
----
+<br><br>
 
-## 🧠 Aprendizados recentes
+💻 <b> IT Analyst & Infrastructure Support</b><br>
+🚀 <b> Backend Developer in evolution</b><br>
+🔐 <b> Cybersecurity & OffSec Enthusiast</b><br>
+📚 <b> Studying PHP, Symfony, MySQL & Node.js</b><br>
+🇫🇷 <b> Currently learning French</b><br>
+🎮 <b> Content creator & Thumbnail Designer</b><br>
 
-- Estruturação de APIs REST com Symfony  
-- Integração com banco de dados MySQL usando Doctrine  
-- Organização de rotas e controllers  
-- Boas práticas de desenvolvimento backend  
+</td>
 
----
+<td width="35%" align="center">
 
-## 🌐 Contato
+<img 
+    src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/lain-serial-experiments-lain.gif" 
+    width="260"
+/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@email.com)
+</td>
 
----
+</tr>
+</table>
 
-## 🎯 Objetivo
+<h2 align="center">
+  <em> Technologies </em>
+</h2>
 
-Evoluir para desenvolvedor backend e atuar com segurança da informação.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Twig-000000?style=for-the-badge&logo=twig&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_365-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Intune-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-> “Building things, learning fast, staying curious.”
+</p>
+
+<br/>
+
+<h2 align="center">
+  <em> Current Projects </em>
+</h2>
+
+<p align="center">
+<br>
+📦 <b> IT Asset Inventory System</b><br/>
+📚 <b> Library API System (Symfony)</b><br/>
+🖥️ <b> Ticket & Support System</b><br/>
+🔐 <em><b> Authentication & Security Studies</b><br/></em>
+</p>
+
+<br/>
+
+<h2 align="center">
+  <em> Goals </em>
+</h2>
+
+<p align="center">
+
+Become a strong Backend Developer while evolving in Cybersecurity and building real-world systems that solve practical problems.
+
+</p>
