@@ -18,9 +18,9 @@
 
 <br>
 
-<h2 align="center">
+<p align="center">
   <em> About me </em>
-</h2>
+</p>
 
 <table style="border: none;">
 <tr>
