@@ -19,13 +19,12 @@
 <h2 align="center">
   <em> About me </em>
 </h2>
-
+<br>
 <img
-  src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/lain-serial-experiments-lain.gif"
-  width="260"
+  src="saber haloo.gif"
+  width="280"
   align="right"
 />
-<br>
 <p align="left">
 Hello There! <em><b> I'm William Marcelino </b></em>, an IT Analyst and Backend Developer in evolution.
 I currently work with technical support, infrastructure, Microsoft 365, Intune and enterprise environments, while also building backend projects focused on real-world solutions.
